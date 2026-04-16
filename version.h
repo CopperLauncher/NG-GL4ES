@@ -3,9 +3,9 @@
 
 #define MAJOR 0
 #define MINOR 4
-#define REVISION 4
-#define VERSION_TYPE "Release "
+#define REVISION 5
+#define VERSION_TYPE "Development "
 #define VERSION_SUFFIX ""
-#define RELEASE 1
+#define RELEASE 0
 
 #endif //_GL4ES_VERSION_H
